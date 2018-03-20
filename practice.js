@@ -19,7 +19,7 @@ var arr = [10,20,30];
 
 function first(arr) {
   return arr[0];
-}
+}   
 var val = first(arr);
 val
 
